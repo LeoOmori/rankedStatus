@@ -20,6 +20,7 @@ cd lolStatus-backEnd
 npm i
 npm run dev
 ```
+front end:
 
 ```
 cd lolStatus-frontEnd
