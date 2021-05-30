@@ -31,8 +31,3 @@ npm start
 trocar os arquivos `.env.examples` para`.env` e colocar as chaves necessária para rodar o app em ambos os repositórios.
 
 
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
