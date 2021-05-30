@@ -1,0 +1,39 @@
+# Ranked status
+
+
+<img src="ranked_Status.gif" alt="exemplo imagem">
+
+> web app para ver informação das filas ranqueadas de um jogador de league of legends
+
+### Ajustes e melhorias
+
+
+## 💻 Pré-requisitos
+
+* Nodejs
+
+
+## 🚀 Instalando <Ranked status>
+
+
+BackEnd:
+```
+cd lolStatus-backEnd
+npm i
+npm run dev
+```
+
+```
+cd lolStatus-frontEnd
+npm i 
+npm start
+```
+
+trocar os arquivos `.env.examples` para`.env` e colocar as chaves necessária para rodar o app em ambos os repositórios.
+
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
