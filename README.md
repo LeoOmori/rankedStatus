@@ -5,8 +5,6 @@
 
 > web app para ver informação das filas ranqueadas de um jogador de league of legends
 
-### Ajustes e melhorias
-
 
 ## 💻 Pré-requisitos
 
